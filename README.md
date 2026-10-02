@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <b>Free, with no ads and no limits.</b> If it saves you time, you can buy me a coffee:
+  <b>Free, with no ads and no limits.</b> If it saves you time, you can support it:
 </p>
 
 <p align="center">
   <a href="https://ko-fi.com/antebellum">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png" alt="Support me on Ko-fi" height="54">
+    <img src="media/donate.png" alt="Donate" width="300">
   </a>
 </p>
 
@@ -78,11 +78,11 @@ There is a [zip version](https://github.com/AleksaB98/ExplorerVideoPreview/relea
 
 ## Support
 
-ExplorerVideoPreview is free and stays free. It is made by one person in their spare time; if it is useful to you, a coffee keeps it and my other free tools going.
+ExplorerVideoPreview is free and stays free. It is made by one person in their spare time; if it is useful to you, a donation keeps it and my other free tools going.
 
 <p align="center">
   <a href="https://ko-fi.com/antebellum">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png" alt="Support me on Ko-fi" height="54">
+    <img src="media/donate.png" alt="Donate" width="300">
   </a>
 </p>
 
