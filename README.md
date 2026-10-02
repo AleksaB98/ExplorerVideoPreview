@@ -42,7 +42,11 @@ Move the mouse sideways along a file: the left edge is the start of the video, t
 
 ## What you can change
 
-Preview size, sharpness, how many pictures it steps through and how fast, and whether it starts with Windows. Right-click the icon near the clock and choose **Settings**.
+Preview size, sharpness, how many pictures it steps through and how fast, whether it shows previews on network drives, and whether it starts with Windows. Right-click the icon near the clock and choose **Settings**.
+
+Not sure what a setting does? Rest the mouse on it and a short explanation appears.
+
+![Rest the mouse on a setting to read what it does](media/settings-tip.png)
 
 <details>
 <summary>Show the settings window</summary>
@@ -69,6 +73,12 @@ Windows 11.
 
 **Which videos does it work with?**
 The usual ones: MP4, MKV, MOV, AVI, WMV, WebM and more. It also works on network drives.
+
+**Can I keep it away from my network drives or NAS?**
+Yes. Open Settings and, on the General tab, untick **Show previews for videos on network drives**. The app then never reads videos there. Videos on your own drives still get previews.
+
+**Does it go through my whole video library?**
+No. A video is only read when you hover it. The pictures it makes are kept on your computer so the next hover is instant; they take 2 GB at most unless you change the limit, and Settings has a button to clear them.
 
 **How do I turn it off for a while?**
 Right-click the icon near the clock and untick **Enabled**.
