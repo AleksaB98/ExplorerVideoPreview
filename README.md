@@ -1,6 +1,6 @@
 # ExplorerVideoPreview
 
-**See inside your videos without opening them.** Hover a video in Windows File Explorer and a preview appears beside it.
+**See inside your videos without opening them.** Hover a video in Windows File Explorer and a preview appears beside it. A free video hover preview for Windows 11: bigger than a thumbnail, and it moves through the whole video.
 
 <p align="center">
   <a href="https://github.com/AleksaB98/ExplorerVideoPreview/releases/latest/download/ExplorerVideoPreview-Setup.exe">
