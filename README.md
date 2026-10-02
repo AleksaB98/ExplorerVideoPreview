@@ -6,6 +6,8 @@
   <a href="https://github.com/AleksaB98/ExplorerVideoPreview/releases/latest/download/ExplorerVideoPreview-Setup.exe">
     <img src="media/download.png" alt="Download for Windows" width="420">
   </a>
+</p>
+
 <p align="center">
   <b>Free, with no ads and no limits.</b> If it saves you time, you can buy me a coffee:
 </p>
