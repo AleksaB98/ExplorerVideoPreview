@@ -6,6 +6,14 @@
   <a href="https://github.com/AleksaB98/ExplorerVideoPreview/releases/latest/download/ExplorerVideoPreview-Setup.exe">
     <img src="media/download.png" alt="Download for Windows" width="420">
   </a>
+<p align="center">
+  <b>Free, with no ads and no limits.</b> If it saves you time, you can buy me a coffee:
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/antebellum">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png" alt="Support me on Ko-fi" height="54">
+  </a>
 </p>
 
 ![Hover a video and the preview steps through it](media/cycle.gif)
@@ -68,9 +76,13 @@ There is a [zip version](https://github.com/AleksaB98/ExplorerVideoPreview/relea
 
 ## Support
 
-ExplorerVideoPreview is free. If it saves you time, you can support its development:
+ExplorerVideoPreview is free and stays free. It is made by one person in their spare time; if it is useful to you, a coffee keeps it and my other free tools going.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/antebellum)
+<p align="center">
+  <a href="https://ko-fi.com/antebellum">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png" alt="Support me on Ko-fi" height="54">
+  </a>
+</p>
 
 ---
 
