@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<br>
+
+## See it in action
+
+Hover a video and the preview steps through it by itself.
+
 ![Hover a video and the preview steps through it](media/cycle.gif)
 
 ## How to get it
