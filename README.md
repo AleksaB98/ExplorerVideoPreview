@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AleksaB98/ExplorerVideoPreview/releases/latest/download/ExplorerVideoPreview-Setup.exe">
-    <img src="media/download.png" alt="Download for Windows" width="420">
+    <img src="media/download.svg" alt="Download for Windows" width="360">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/antebellum">
-    <img src="media/donate.png" alt="Donate" width="300">
+    <img src="media/donate.svg" alt="Donate" width="150">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## How to get it
 
-1. **Click the blue Download button above.** One file is saved to your Downloads folder.
+1. **Click the green Download button above.** One file is saved to your Downloads folder.
 2. **Open that file.** Windows may show a blue box saying "Windows protected your PC". Click **More info**, then **Run anyway**. (Windows shows this for new apps it has not seen often yet.) Then click through the short setup.
 3. **Hover any video in File Explorer.** That is all.
 
@@ -82,7 +82,7 @@ ExplorerVideoPreview is free and stays free. It is made by one person in their s
 
 <p align="center">
   <a href="https://ko-fi.com/antebellum">
-    <img src="media/donate.png" alt="Donate" width="300">
+    <img src="media/donate.svg" alt="Donate" width="150">
   </a>
 </p>
 
