@@ -69,7 +69,10 @@ Yes. No trial, no limits, no ads, no account.
 No. Everything happens on your computer. The app does not connect to the internet at all.
 
 **Which Windows do I need?**
-Windows 11.
+Windows 11. Nothing else has to be installed.
+
+**It did not start: "VCRUNTIME140.dll was not found".**
+Version 1.1.0 and older needed a Microsoft add-on that some PCs lack. Install the latest version; it needs nothing extra.
 
 **Which videos does it work with?**
 The usual ones: MP4, MKV, MOV, AVI, WMV, WebM and more. It also works on network drives.
